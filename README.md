@@ -1,2 +1,3 @@
 # PlatRock-Viewer
- Logiciel de visualisation des résultats générés par PlatRock 2D
+
+Librairie Python dédiée à la visualisation des résultats générés avec [PlatRock 2D](http://platrock.org/index.html).
